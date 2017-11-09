@@ -119,7 +119,7 @@
 	    <repository>
         	<id>java-maven-junit</id>
         	<name>java-maven-junit</name>
-        	<url>http://localhost:8081/repository/java-maven-junit/</url>
+        	<url>http://localhost:8081/repository/maven-releases/</url>
     	    </repository>
 	</distributionManagement>
 
